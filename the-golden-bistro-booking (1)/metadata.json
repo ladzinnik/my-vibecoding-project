@@ -1,0 +1,5 @@
+{
+  "name": "The Golden Bistro Booking",
+  "description": "A customizable restaurant booking application with an admin panel to manage restaurant name and theme colors.",
+  "requestFramePermissions": []
+}
